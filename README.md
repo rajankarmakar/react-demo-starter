@@ -1,4 +1,4 @@
-# React Demo Stater
+# React Demo Starter
 
 This is a react demo starter plugin working with **WordPress and React** together.
 
